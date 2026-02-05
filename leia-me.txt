@@ -40,6 +40,8 @@ pip install CTkMessagebox
 
 In English
 
+Work carried out with the main objective of creating a Python program that calculates an annual rental budget and allows client customization.
+
 Rental Budget System – Real Estate Rental Company
 
 This project was developed to automate the generation of monthly rental budgets for different types of properties: House, Apartment, and Studio.
@@ -74,3 +76,4 @@ Open the terminal in the project folder and run:
 
 pip install customtkinter
 pip install CTkMessagebox
+
