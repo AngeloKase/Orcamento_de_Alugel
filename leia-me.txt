@@ -1,3 +1,5 @@
+Em Portugûes
+
 Sistema de Orçamento de Aluguel - Locadora de Imóveis
 
 Este projeto foi desenvolvido para automatizar a geração de orçamentos de aluguel mensal para diferentes tipos de imóveis: Casa, Apartamento e Estúdio.  
@@ -30,6 +32,45 @@ Requisitos do Sistema
 Instalação das Dependências
 
 Abra o terminal na pasta do projeto e execute:
+
+pip install customtkinter
+pip install CTkMessagebox
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+In English
+
+Rental Budget System – Real Estate Rental Company
+
+This project was developed to automate the generation of monthly rental budgets for different types of properties: House, Apartment, and Studio.
+The application implements the business rules of the company R.M, allowing values to be customized according to client preferences, applying discounts, and generating a CSV file with the budget installments.
+
+Main Features
+
+° Automatic rental value calculation based on client choices.
+° 5% discount for apartments without children.
+° Installment payment of the real estate contract fee of $2,000.00 in up to 5 installments.
+° Automatic generation of a .csv file with the 12 installments of the budget.
+° Modern graphical interface with CustomTkinter, organized in steps.
+° Detailed display of the monthly budget and total annual cost.
+° Additional fully functional terminal version.
+
+Technologies Used
+
+° Python 3.10+
+° Tkinter / CustomTkinter
+° CTkMessagebox
+° TTK Treeview
+° CSV (standard module)
+
+System Requirements
+
+° Operating System: Windows, macOS, or Linux
+° Python installed (version 3.10 or higher)
+
+Installing Dependencies
+
+Open the terminal in the project folder and run:
 
 pip install customtkinter
 pip install CTkMessagebox
