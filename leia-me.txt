@@ -41,6 +41,8 @@ pip install CTkMessagebox
 
 Em Portugûes
 
+Trabalho Realizado com o tema principal de criar um código em python que calculasse um orçamento anual de um aluguel, e que permitisse a personalização do cliente
+
 Sistema de Orçamento de Aluguel - Locadora de Imóveis
 
 Este projeto foi desenvolvido para automatizar a geração de orçamentos de aluguel mensal para diferentes tipos de imóveis: Casa, Apartamento e Estúdio.  
@@ -76,6 +78,7 @@ Abra o terminal na pasta do projeto e execute:
 
 pip install customtkinter
 pip install CTkMessagebox
+
 
 
 
