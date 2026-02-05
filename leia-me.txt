@@ -1,43 +1,3 @@
-Em Portugûes
-
-Sistema de Orçamento de Aluguel - Locadora de Imóveis
-
-Este projeto foi desenvolvido para automatizar a geração de orçamentos de aluguel mensal para diferentes tipos de imóveis: Casa, Apartamento e Estúdio.  
-A aplicação implementa as regras de negócio da empresa R.M, permitindo personalizar valores conforme preferências do cliente, aplicar descontos e gerar um arquivo CSV com as parcelas do orçamento.
-
-Funcionalidades Principais
-
-° Cálculo automático do valor do aluguel com base nas escolhas do cliente.  
-° Desconto de 5% para apartamentos sem crianças.  
-° Parcelamento do contrato imobiliário de R$ 2.000,00 em até 5 vezes.  
-° Geração automática de um arquivo `.csv` com as **12 parcelas** do orçamento.  
-° Interface gráfica moderna com CustomTkinter, organizada por etapas.  
-° Exibição detalhada do orçamento mensal e total anual.  
-° Versão adicional em modo terminal, totalmente funcional.
-
-Tecnologias Utilizadas
-
-° Python 3.10+
-° Tkinter / CustomTkinter
-° CTkMessagebox 
-° TTK Treeview
-° CSV (módulo padrão)
-
-Requisitos do Sistema
-
-° Sistema Operacional: Windows, macOS ou Linux  
-° Python instalado (versão 3.10 ou superior)
-
-
-Instalação das Dependências
-
-Abra o terminal na pasta do projeto e execute:
-
-pip install customtkinter
-pip install CTkMessagebox
-
---------------------------------------------------------------------------------------------------------------------------------------------------
-
 In English
 
 Work carried out with the main objective of creating a Python program that calculates an annual rental budget and allows client customization.
@@ -76,4 +36,48 @@ Open the terminal in the project folder and run:
 
 pip install customtkinter
 pip install CTkMessagebox
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+Em Portugûes
+
+Sistema de Orçamento de Aluguel - Locadora de Imóveis
+
+Este projeto foi desenvolvido para automatizar a geração de orçamentos de aluguel mensal para diferentes tipos de imóveis: Casa, Apartamento e Estúdio.  
+A aplicação implementa as regras de negócio da empresa R.M, permitindo personalizar valores conforme preferências do cliente, aplicar descontos e gerar um arquivo CSV com as parcelas do orçamento.
+
+Funcionalidades Principais
+
+° Cálculo automático do valor do aluguel com base nas escolhas do cliente.  
+° Desconto de 5% para apartamentos sem crianças.  
+° Parcelamento do contrato imobiliário de R$ 2.000,00 em até 5 vezes.  
+° Geração automática de um arquivo `.csv` com as **12 parcelas** do orçamento.  
+° Interface gráfica moderna com CustomTkinter, organizada por etapas.  
+° Exibição detalhada do orçamento mensal e total anual.  
+° Versão adicional em modo terminal, totalmente funcional.
+
+Tecnologias Utilizadas
+
+° Python 3.10+
+° Tkinter / CustomTkinter
+° CTkMessagebox 
+° TTK Treeview
+° CSV (módulo padrão)
+
+Requisitos do Sistema
+
+° Sistema Operacional: Windows, macOS ou Linux  
+° Python instalado (versão 3.10 ou superior)
+
+
+Instalação das Dependências
+
+Abra o terminal na pasta do projeto e execute:
+
+pip install customtkinter
+pip install CTkMessagebox
+
+
+
+
 
